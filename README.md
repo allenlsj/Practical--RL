@@ -1,2 +1,2 @@
 # Practical--rl
-Cousera: Pratical Reinforcement Learning
+Repo for Coursera Practical Reinforcement Learning by Higher School of Economics
